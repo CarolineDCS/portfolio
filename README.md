@@ -1,5 +1,14 @@
 # Portefolio de Caroline DEVRED
+## Pipeline DBT
 
+* This is my first independent DBT project. I had to create an ELT pipeline to make Airbnb data from Amsterdam usable for analysis. 
+I first prepared Snowflake to retrieve the data. Then I developed the pipeline using templates and macros, while testing the data quality as thoroughly as possible, in order to dispatch the data to final tables. I also proposed four analyses. I hope this project is comprehensive enough to allow you to perform your own analyses on Airbnb data from Amsterdam.
+  * You can find it [here](https://github.com/CarolineDCS/projet_airbnb_DBT) 
+
+
+* Ceci est mon premier projet DBT en autonomie. Je devais créer une pipeline ELT pour rendre les données Airbnb d'Amsterdam utilisables pour l'analyse. 
+J'ai d'abord préparé Snowflake pour récupérer les données. Puis j'ai développé la pipeline à l'aide de modèles et de macros, tout en testant le plus exhaustivement possible la qualité des données, afin de dispatcher les données vers des tables finales. J'ai aussi proposé 4 analyses. Un projet que j'espère complet pour vous permettre de faire vos propres analyses sur les données Airbnb d'Amsterdam.
+  * Vous le trouverez [ici](https://github.com/CarolineDCS/projet_airbnb_DBT) 
 ## Pipeline Snowflake
 
 * This is my first independent Snowflake project. I had to create an ELT pipeline to integrate logs from a fictional healthcare application.
@@ -12,7 +21,7 @@ I then developed the pipeline via Tasks (TASKS) with DAGs, functions/procedures 
 
 * Ceci est mon premier projet Snowflake en autonomie. Je devais créer une pipeline ELT pour intégrer des logs d’une application de santé fictive.
 J’ai d’abord travaillé sur la gouvernance, en mettant en place un modèle RBAC hiérarchique et en créant la structure de données (bases, schémas RAW/COMMON/STAGING, tables, internal stage).
-J’ai ensuite développé la pipeline via Tâches (TASKS) avec DAGs, fonctions/procédures pour valider la qualité (processus/dates) et dispatcher vers tables finales, ce que j’ai trouvé très intéressant.
+J’ai ensuite développé la pipeline via Tâches (TASKS) avec DAGs, fonctions/procédures pour valider la qualité (processus/dates) et dispatcher vers les tables finales, ce que j’ai trouvé très intéressant.
 
   * Vous le trouverez  [ici](https://github.com/CarolineDCS/snowflake_pipeline)
 
