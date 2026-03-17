@@ -1,4 +1,4 @@
-# Portefolio de Caroline DEVRED
+# Portfolio de Caroline DEVRED
 ## Pipeline DBT
 
 * This is my first independent DBT project. I had to create an ELT pipeline to make Airbnb data from Amsterdam usable for analysis. 
