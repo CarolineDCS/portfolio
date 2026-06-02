@@ -44,13 +44,14 @@ Je ne suis pas certaine du résultat, mais j’ai trouvé cet exercice très for
 
 ## Projet Python -- Marché de l'automobile d'occasion aux USA
 
-* Il s'agissait de préparer des données sur le marché de l'automobile d'occasion aux USA, afin de pouvoir les analyser pour un commercial souhaitant s'y implanter. Cela m’a permis de vraiment réfléchir à la gestion des valeurs manquantes \: les imputer ou non, et si imputation il y a, comment la choisir\. Cette analyse de données me permet de conclure qu’il n’est pas possible de donner un conseil en ce qui concerne l’installation sur le marché de l’automobile d’occasion aux États\-Unis\. En effet, les données à disposition ne permettent que d'étudier les résultats du marché existant. Ces réflexions sur les données étaient très formatrices, et me permettent de se positionner comme quelqu'un qui comprend la donnée et non comme quelqu'un qui applique des règles.
+* Il s'agissait de préparer des données sur le marché de l'automobile d'occasion aux USA, afin de pouvoir les analyser pour un commercial souhaitant s'y implanter. Cela m’a permis de vraiment réfléchir à la gestion des valeurs manquantes \: les imputer ou non, et si imputation il y a, comment la choisir\. J'ai ensuite étudié quelques axes d'analyse. Ces analyses de données m'ont permis de conclure qu’il ne m’était pas possible de donner un conseil en ce qui concerne l’installation sur le marché de l’automobile d’occasion aux États\-Unis\. En effet, les données à disposition ne permettent que d'étudier les résultats du marché existant. Ces réflexions sur les données étaient très formatrices, et me permettent de se positionner comme quelqu'un qui comprend la donnée et non comme quelqu'un qui applique des règles.
 
 
    * Vous le trouverez [ici](https://github.com/CarolineDCS/MarcheAutoPython)
 
 * The Used Car Market in the U.S.
-The task was to prepare data on the used car market in the U.S. so that it could be analyzed for a sales representative looking to enter that market. This allowed me to really think through how to handle missing values: whether to impute them or not, and if so, how to choose the imputation method. This data analysis leads me to conclude that it is not possible to provide advice regarding entering the used car market in the United States. In fact, the available data only allows for an analysis of the existing market. These reflections on the data were very educational and allow me to position myself as someone who understands the data rather than someone who simply applies rules.
+The task was to prepare data on the used car market in the U.S. so that it could be analyzed for a sales representative looking to enter that market. This gave me the opportunity to really think through how to handle missing values: whether to impute them or not, and if so, how to choose the imputation method. I then explored several lines of analysis. These data analyses led me to conclude that I was unable to provide advice regarding entering the used car market in the United States. Indeed, the available data only allows for an analysis of the existing market. These reflections on the data were very educational and allow me to position myself as someone who understands the data rather than as someone who merely applies rules.
+
    * You can find it [here](https://github.com/CarolineDCS/MarcheAutoPython)
 
 
