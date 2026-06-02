@@ -50,9 +50,7 @@ Je ne suis pas certaine du résultat, mais j’ai trouvé cet exercice très for
    * Vous le trouverez [ici](https://github.com/CarolineDCS/MarcheAutoPython)
 
 * The Used Car Market in the U.S.
-
 The task was to prepare data on the used car market in the U.S. so that it could be analyzed for a sales representative looking to enter that market. This allowed me to really think through how to handle missing values: whether to impute them or not, and if so, how to choose the imputation method. This data analysis leads me to conclude that it is not possible to provide advice regarding entering the used car market in the United States. In fact, the available data only allows for an analysis of the existing market. These reflections on the data were very educational and allow me to position myself as someone who understands the data rather than someone who simply applies rules.
-
    * You can find it [here](https://github.com/CarolineDCS/MarcheAutoPython)
 
 
