@@ -42,7 +42,7 @@ Je ne suis pas certaine du résultat, mais j’ai trouvé cet exercice très for
    * Vous le trouverez  [ici](https://github.com/CarolineDCS/PF-Analysis-and-Reporting-Project-for-Outsourced-Call-Center)
  
 
-##Projet Python -- Marché de l'automobile d'occasion aux USA
+## Projet Python -- Marché de l'automobile d'occasion aux USA
 
 * Il s'agissait de préparer des données sur le marché de l'automobile d'occasion aux USA, afin de pouvoir les analyser pour un commercial souhaitant s'y implanter. Cela m’a permis de vraiment réfléchir à la gestion des valeurs manquantes \: les imputer ou non, et si imputation il y a, comment la choisir\. Cette analyse de données me permet de conclure qu’il n’est pas possible de donner un conseil en ce qui concerne l’installation sur le marché de l’automobile d’occasion aux États\-Unis\. En effet, les données à disposition ne permettent que d'étudier les résultats du marché existant. Ces réflexions sur les données étaient très formatrices, et me permettent de se positionner comme quelqu'un qui comprend la donnée et non comme quelqu'un qui applique des règles.
 
