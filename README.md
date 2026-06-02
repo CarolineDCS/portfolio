@@ -9,6 +9,7 @@ I first prepared Snowflake to retrieve the data. Then I developed the pipeline u
 * Ceci est mon premier projet DBT en autonomie. Je devais créer une pipeline ELT pour rendre les données Airbnb d'Amsterdam utilisables pour l'analyse. 
 J'ai d'abord préparé Snowflake pour récupérer les données. Puis j'ai développé la pipeline à l'aide de modèles et de macros, tout en testant le plus exhaustivement possible la qualité des données, afin de dispatcher les données vers des tables finales. J'ai aussi proposé 4 analyses. Un projet que j'espère complet pour vous permettre de faire vos propres analyses sur les données Airbnb d'Amsterdam.
   * Vous le trouverez [ici](https://github.com/CarolineDCS/projet_airbnb_DBT) 
+
 ## Pipeline Snowflake
 
 * This is my first independent Snowflake project. I had to create an ELT pipeline to integrate logs from a fictional healthcare application.
@@ -39,5 +40,20 @@ J’ai ensuite passé beaucoup de temps pour essayer plusieurs graphiques afin d
 Je ne suis pas certaine du résultat, mais j’ai trouvé cet exercice très formateur.
 
    * Vous le trouverez  [ici](https://github.com/CarolineDCS/PF-Analysis-and-Reporting-Project-for-Outsourced-Call-Center)
+ 
+
+##Projet Python -- Marché de l'automobile d'occasion aux USA
+
+* Il s'agissait de préparer des données sur le marché de l'automobile d'occasion aux USA, afin de pouvoir les analyser pour un commercial souhaitant s'y implanter. Cela m’a permis de vraiment réfléchir à la gestion des valeurs manquantes \: les imputer ou non, et si imputation il y a, comment la choisir\. Cette analyse de données me permet de conclure qu’il n’est pas possible de donner un conseil en ce qui concerne l’installation sur le marché de l’automobile d’occasion aux États\-Unis\. En effet, les données à disposition ne permettent que d'étudier les résultats du marché existant. Ces réflexions sur les données étaient très formatrices, et me permettent de se positionner comme quelqu'un qui comprend la donnée et non comme quelqu'un qui applique des règles.
+
+
+   * Vous le trouverez [ici](]https://github.com/CarolineDCS/MarcheAutoPython)
+
+* The Used Car Market in the U.S.
+
+The task was to prepare data on the used car market in the U.S. so that it could be analyzed for a sales representative looking to enter that market. This allowed me to really think through how to handle missing values: whether to impute them or not, and if so, how to choose the imputation method. This data analysis leads me to conclude that it is not possible to provide advice regarding entering the used car market in the United States. In fact, the available data only allows for an analysis of the existing market. These reflections on the data were very educational and allow me to position myself as someone who understands the data rather than someone who simply applies rules.
+
+   * You can find it [here](]https://github.com/CarolineDCS/MarcheAutoPython)
+
 
 
